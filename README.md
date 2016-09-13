@@ -9,3 +9,5 @@ Still experiencing server error, might be from wrong input commands in the ssh, 
 Removed echo "X-COMP-490: ${USER}" from simple.cgi file in hopes that might have been the cause but still recieving the server error.
 
 Tried command chmod 775 simple.cgi in ssh. Still didnt work.
+
+Fourth commit: Added .htaccess file

@@ -13,3 +13,5 @@ Tried command chmod 775 simple.cgi in ssh. Still didnt work.
 Fourth commit: Added .htaccess file
 
 Got the server to Begin at http://www.csun.edu/~ira14059/cgi-bin/simple.cgi?csun but still not showing content.
+
+Realized it had been put as "www.csun.com" instead of www.csun.edu" fml

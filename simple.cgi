@@ -25,7 +25,6 @@ echo ""
 echo "Enter Query String to navigate web pages"
 echo "www.csun.edu/~ira14059/cgi-bin/simple.cgi?simple.cgi to go to the csun.edu homepage"
 echo "<pre> $(env) </pre>"
-
 if [ "${QUERY_STRING}" == "csun" ] ; then
 	echo "Accessing www.csun.edu"
    /usr/bin/curl -s "www.csun.edu"

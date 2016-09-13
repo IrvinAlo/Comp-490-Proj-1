@@ -1,4 +1,3 @@
-$ cat simple.cgi
 #! /bin/bash
 
 # This is a little CGI program

@@ -15,3 +15,5 @@ Fourth commit: Added .htaccess and index.html files
 Got the server to Begin at http://www.csun.edu/~ira14059/cgi-bin/simple.cgi?csun but still not showing content.
 
 Realized it had been put as "www.csun.com" instead of www.csun.edu" fml
+
+http://www.csun.edu/~ira14059/cgi-bin/simple.cgi?index.html works but link to csun shows error
